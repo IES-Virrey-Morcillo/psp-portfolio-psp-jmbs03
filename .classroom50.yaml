@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "psp"
+assignment: "portfolio-psp"
+owner:
+  username: "jmbs03"
+  id: 182321957
+  accepted_at: "2026-09-21T07:52:10Z"
+source:
+  owner: "IES-Virrey-Morcillo"
+  owner_id: 183601586
+  repo: "Portfolio-PSP"
+  branch: "main"
